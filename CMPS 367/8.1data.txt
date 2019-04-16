@@ -1,6 +1,0 @@
-Bryan 21 3.1
-Kevin 17 2.8
-James 22 3.1
-Yue 16 3.2
-Allyson 19 2.9
-Esteban 24 3.1
